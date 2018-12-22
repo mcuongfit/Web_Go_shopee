@@ -1,0 +1,49 @@
+﻿@model IEnumerable<NETCKTEAM30.Models.HangHoa>
+
+@{
+    ViewData["Title"] = "Searchadmin";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên Sản Phẩm
+            </th>
+            <th>
+                Loại
+            </th>
+            <th>
+                Đơn Giá
+            </th>
+            <th>
+                Nhà Cung Cấp
+            </th>
+            <th>
+                Ngày Nhập
+            </th>
+            <th>
+                Lượt Mua
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="width:300px">@Html.DisplayFor(modelItem => item.TenHh)</td>
+                <td>@Html.DisplayFor(modelItem => item.Loai.TenLoai)</td>
+                <td>@Html.DisplayFor(modelItem => item.DonGia)</td>
+                <td>@Html.DisplayFor(modelItem => item.NhaCungCap.TenNhaCc)</td>
+                <td>@Html.DisplayFor(modelItem => item.NgayNhap)</td>
+                <td>@Html.DisplayFor(modelItem => item.LuotMua)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.HanghoaID" class="w3-pale-yellow w3-button">Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@item.HanghoaID" class="w3-pale-blue w3-button">Chi Tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.HanghoaID" class="w3-pale-red w3-button">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,394 @@
+﻿@using Microsoft.AspNetCore.Http
+<!--
+author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="~/css/mycss.css" rel="stylesheet" />
+    <title>Grocery Store a Ecommerce Online Shopping Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+    <!-- for-mobile-apps -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Grocery Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+    <script type="application/x-javascript">
+        addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+               function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- //for-mobile-apps -->
+    <link href="~/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- font-awesome icons -->
+    <link href="~/css/font-awesome.css" rel="stylesheet" type="text/css" media="all" />
+    <!-- //font-awesome icons -->
+    <!-- js -->
+    <script src="~/js/jquery-1.11.1.min.js"></script>
+    <!-- //js -->
+    <link href='//fonts.googleapis.com/css?family=Ubuntu:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+    <!-- start-smoth-scrolling -->
+    <script type="text/javascript" src="~/js/move-top.js"></script>
+    <script type="text/javascript" src="~/js/easing.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({ scrollTop: $(this.hash).offset().top }, 1000);
+            });
+        });
+    </script>
+    <!-- start-smoth-scrolling -->
+</head>
+
+<body>
+    <div class="container-fluid">
+        <!-- header -->
+        <div class="agileits_header">
+            <div class="w3l_offers">
+                <a style="background-color:red;" href="/">Home</a>
+            </div>
+            <div class="w3l_offers">
+                <a style="background-color:red;" href="Home/Contact">Contact Us</a>
+            </div>
+            <div class="w3l_header_right" style="color:white;">
+                @{
+                    if (Context.Session.Get<NguoiDung>("MaKH") != null)
+                    {
+                        NguoiDung kh = Context.Session.Get<NguoiDung>("MaKH");
+                        <p>
+                            Xin chào:@kh.HoTen
+                            <img style="width: 58px;height: 54px;float:left;" src="~/images/@kh.Hinh" class="img-thumbnail" alt="Cinque Terre" />
+                        </p>
+                    }
+                }
+
+                <ul>
+                    <li class="dropdown profile_details_drop">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i><span class="caret"></span></a>
+                        <div class="mega-dropdown-menu">
+                            <div class="w3ls_vegetables">
+                                <ul class="dropdown-menu drp-mnu">
+                                    @if (Context.Session.Get<NguoiDung>("MaKH") == null)
+                                    {
+                                        <li><a asp-action="dangnhap" asp-controller="NguoiDungs">Login</a></li>
+                                        <li><a asp-action="dangky" asp-controller="NguoiDungs">Sign Up</a></li>
+
+                                    }
+                                    else
+                                    {
+
+
+                                        NguoiDung kh = Context.Session.Get<NguoiDung>("MaKH");
+                                        if (kh.LoaiNgDungID == 1)
+                                        {
+                                            <li><a asp-action="quanlytrangweb" asp-controller="Home" asp-route-id="@kh.NguoiDungID">Quản Trị</a></li>
+                                            <li><a asp-action="dangxuat" asp-controller="NguoiDungs" asp-route-id="@kh.NguoiDungID">Đăng Xuất</a></li>
+                                        }
+                                        else
+                                        {
+                                            <li><a asp-action="suathongtinkh" asp-controller="NguoiDungs" asp-route-id="@kh.NguoiDungID">Sửa Thông tin cá nhân</a></li>
+                                            <li><a asp-action="dangxuat" asp-controller="NguoiDungs" asp-route-id="@kh.NguoiDungID">Đăng Xuất</a></li>
+                                        }
+
+                                    }
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="product_list_header">
+                <a asp-action="viewgiohang" asp-controller="HangHoas">
+
+                    <input name="submit" value="View your cart" class="button" />
+
+                </a>
+            </div>
+        </div>
+        <!-- script-for sticky-nav -->
+        <script>
+            $(document).ready(function () {
+                var navoffeset = $(".agileits_header").offset().top;
+                $(window).scroll(function () {
+                    var scrollpos = $(window).scrollTop();
+                    if (scrollpos >= navoffeset) {
+                        $(".agileits_header").addClass("fixed");
+                    } else {
+                        $(".agileits_header").removeClass("fixed");
+                    }
+                });
+
+            });
+        </script>
+        <!-- //script-for sticky-nav -->
+        <div class="logo_products" style="padding: 2em 0px 0em;">
+            <div class="container">
+                <div class="w3ls_logo_products_left">
+                    <a style="color:#000033;font-size:75px;font-weight:bolder;text-decoration: none;"><span style="color:#800000;">Go</span> Shopee</a>
+                </div>
+                <div class="w3ls_logo_products_left1">
+                    <ul class="phone_email">
+                        <li><i class="fa fa-phone" aria-hidden="true"></i>0909 090 999</li>
+                        <li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="#">goshopee@gmail.com</a></li>
+                    </ul>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+        </div>
+        <!-- //header -->
+        <div class="row" style="margin-right:-29px;margin-left:-29px;">
+            <div class="col-md-3">
+                <!-- banner -->
+                <div class="banner">
+                    <div class="w3l_banner_nav_left" style="float:left;width:84%">
+                        <nav class="navbar nav_bottom">
+                            <!-- Brand and toggle get grouped for better mobile display -->
+                            <div class="navbar-header nav_2">
+                                <button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                            </div>
+                            <!-- Collect the nav links, forms, and other content for toggling -->
+
+                            @{
+                                MyDbContext db = new MyDbContext();
+                                var loais = db.Loais
+                                    .Where(p => p.HangHoa.Count > 0)
+                                    .ToList();
+                                var nhaccs = db.NhaCungCaps
+                                .Where(p => p.HangHoa.Count > 0)
+                                .ToList();
+                            }
+
+                            <div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+                                <ul class="nav navbar-nav nav_1">
+                                    <li><a href="#" style="color:#fff;background-color:#a5c29e;font-size:18px;font-weight:bold;">Loại sản phẩm</a></li>
+                                    @foreach (var lo in loais)
+                                    {
+                                        <li>
+                                            <a style="padding:4px 0px 4px 40px;" asp-controller="HangHoas" asp-action="layhanghoa" asp-route-maloai="@lo.LoaiID">
+                                                @lo.TenLoai
+                                            </a>
+                                        </li>
+                                    }
+                                    <li><a href="#" style="color:#fff;background-color:#a5c29e;font-size:18px;font-weight:bold;">Nhà cung cấp</a></li>
+                                    @foreach (var lo in nhaccs)
+                                    {
+                                        <li>
+                                            <a style="padding:4px 0px 4px 40px;" asp-controller="HangHoas" asp-action="layhanghoa" asp-route-mancc=" @lo.NhaCungCapID">
+                                                @lo.TenNhaCc
+                                            </a>
+                                        </li>
+                                    }
+                                    <li><a href="#" style="color:#fff;background-color:#a5c29e;font-size:18px;font-weight:bold;">Sản phẩm bán chạy</a></li>
+                                    <li><a style="padding:4px 0px 4px 40px;" href="#">StrongBow</a></li>
+                                    <li><a style="padding:4px 0px 4px 40px;" href="#">Cá hồi</a></li>
+                                    <li><a style="padding:4px 0px 4px 40px;" href="#">Thịt thăn bò</a></li>
+                                    <li><a style="padding:4px 0px 4px 40px;" href="#">Nước ép cam</a></li>
+                                    <li><a style="padding:4px 0px 4px 40px;" href="#">Bánh quy bơ</a></li>
+                                    <li><a style="padding:4px 0px 4px 40px;" href="#">Cánh gà 500G</a></li>
+                                </ul>
+                            </div><!-- /.navbar-collapse -->
+                        </nav>
+                    </div>
+                    <!-- //newsletter -->
+                </div>
+            </div>
+            <article class="col-md-9">
+
+                @RenderBody()
+
+            </article>
+
+        </div>
+
+        <!-- //fresh-vegetables -->
+        <!-- footer -->
+        <footer class="row">
+
+            <div class="footer">
+                <div class="container">
+                    <div class="col-md-3 w3_footer_grid">
+                        <h3>information</h3>
+                        <ul class="w3_footer_grid_list">
+                            <li><a href="events.html">Events</a></li>
+                            <li><a href="about.html">About Us</a></li>
+                            <li><a href="products.html">Best Deals</a></li>
+                            <li><a href="services.html">Services</a></li>
+                            <li><a href="short-codes.html">Short Codes</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 w3_footer_grid">
+                        <h3>policy info</h3>
+                        <ul class="w3_footer_grid_list">
+                            <li><a href="faqs.html">FAQ</a></li>
+                            <li><a href="privacy.html">privacy policy</a></li>
+                            <li><a href="privacy.html">terms of use</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 w3_footer_grid">
+                        <h3>what in stores</h3>
+                        <ul class="w3_footer_grid_list">
+                            <li><a href="pet.html">Pet Food</a></li>
+                            <li><a href="frozen.html">Frozen Snacks</a></li>
+                            <li><a href="kitchen.html">Kitchen</a></li>
+                            <li><a href="products.html">Branded Foods</a></li>
+                            <li><a href="household.html">Households</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-3 w3_footer_grid">
+                        <h3>twitter posts</h3>
+                        <ul class="w3_footer_grid_list1">
+                            <li>
+                                <label class="fa fa-twitter" aria-hidden="true"></label><i>01 day ago</i><span>
+                                    Non numquam <a href="#">http://sd.ds/13jklf#</a>
+                                    eius modi tempora incidunt ut labore et
+                                    <a href="#">http://sd.ds/1389kjklf#</a>quo nulla.
+                                </span>
+                            </li>
+                            <li>
+                                <label class="fa fa-twitter" aria-hidden="true"></label><i>02 day ago</i><span>
+                                    Con numquam <a href="#">http://fd.uf/56hfg#</a>
+                                    eius modi tempora incidunt ut labore et
+                                    <a href="#">http://fd.uf/56hfg#</a>quo nulla.
+                                </span>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"> </div>
+                    <div class="agile_footer_grids">
+                        <div class="col-md-3 w3_footer_grid agile_footer_grids_w3_footer">
+                            <div class="w3_footer_grid_bottom">
+                                <h4>100% secure payments</h4>
+                                <img src="~/images/card.png" alt=" " class="img-responsive" />
+                            </div>
+                        </div>
+                        <div class="col-md-3 w3_footer_grid agile_footer_grids_w3_footer">
+                            <div class="w3_footer_grid_bottom">
+                                <h5>connect with us</h5>
+                                <ul class="agileits_social_icons">
+                                    <li><a href="#" class="facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#" class="twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#" class="google"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+                                    <li><a href="#" class="instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                    <li><a href="#" class="dribbble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="clearfix"> </div>
+                    </div>
+                    <div class="wthree_footer_copy">
+                        <p>© 2016 Grocery Store. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    <!-- //footer -->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(".dropdown").hover(
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideDown("fast");
+                    $(this).toggleClass('open');
+                },
+                function () {
+                    $('.dropdown-menu', this).stop(true, true).slideUp("fast");
+                    $(this).toggleClass('open');
+                }
+            );
+        });
+    </script>
+    <!-- here stars scrolling icon -->
+    <script type="text/javascript">
+        $(document).ready(function () {
+            /*
+                var defaults = {
+                containerID: 'toTop', // fading element id
+                containerHoverID: 'toTopHover', // fading element hover id
+                scrollSpeed: 1200,
+                easingType: 'linear'
+                };
+            */
+
+            $().UItoTop({ easingType: 'easeOutQuart' });
+
+        });
+    </script>
+    <!-- //here ends scrolling icon -->
+    <script src="~/js/minicart.js"></script>
+    <script>
+        paypal.minicart.render();
+
+        paypal.minicart.cart.on('checkout', function (evt) {
+            var items = this.items(),
+                len = items.length,
+                total = 0,
+                i;
+
+            // Count the number of each item in the cart
+            for (i = 0; i < len; i++) {
+                total += items[i].get('quantity');
+            }
+
+            if (total < 3) {
+                alert('The minimum order quantity is 3. Please add more to your shopping cart before checking out');
+                evt.preventDefault();
+            }
+        });
+
+    </script>
+    @{
+        if (Context.Session.Get<int>("a") == 2)
+        {
+            <script>
+                alert('Đăng ký thành công! Hãy Đăng nhập! ')
+            </script>
+            Context.Session.Set<int>("a", 1);
+        }
+        if (Context.Session.Get<int>("a") == 3)
+        {
+            <script>
+                alert('Người Dùng Chưa Đăng Nhập, Hãy đăng nhập để chúng tối biêt thông tin về khách hàng của mình! ')
+            </script>
+            Context.Session.Set<int>("a", 1);
+        }
+        if (Context.Session.Get<int>("a") == 4)
+        {
+            <script>
+                alert('Hãy đăng nhập để bình luận! ')
+
+            </script>
+            Context.Session.Set<int>("a", 1);
+        }
+        if (Context.Session.Get<int>("a") == 7)
+        {
+            <script>
+                alert('Đặt Hàng thành công!')
+
+            </script>
+            Context.Session.Set<int>("a", 1);
+        }
+    }
+
+    <!--Facebook-->
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v3.2&appId=345381992927311&autoLogAppEvents=1';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+</body>
+</html>

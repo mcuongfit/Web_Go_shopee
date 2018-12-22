@@ -1,0 +1,77 @@
+﻿@model NETCKTEAM30.Models.BinhLuan
+
+@{
+    ViewData["Title"] = "Edit";
+}
+@{
+    Layout = "_Admin";
+}
+<head>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .mainmenu {
+            margin-left: 24%;
+        }
+    </style>
+</head>
+<body>
+    <h3 class="w3-bar-item w3-padding w3-white" style="width:100%; text-align: center">COMMNENTS</h3>
+    <hr />
+    <div class="row mainmenu">
+        <div class="col-md-8">
+            <form asp-action="Edit" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="BinhLuanID" />
+                <div class="form-group">
+                    <label asp-for="HangHoaID" class="control-label"></label>
+                    <select asp-for="HangHoaID" class="form-control" asp-items="ViewBag.HangHoaID"></select>
+                    <span asp-validation-for="HangHoaID" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="HangHoa" class="control-label"></label>
+                    <select asp-for="HangHoa" class="form-control" asp-items="ViewBag.HangHoa.TenHh"></select>
+                    <span asp-validation-for="HangHoa" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NoiDung" class="control-label"></label>
+                    <input asp-for="NoiDung" class="form-control" />
+                    <span asp-validation-for="NoiDung" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NguoiDung" class="control-label"></label>
+                    <select asp-for="NguoiDung" class="form-control" asp-items="ViewBag.NguoiDung.HoTen"></select>
+                    <span asp-validation-for="NguoiDung" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    Hình
+                    <dl>
+                        <dd>
+                            <div style="width:auto;height:210px; ">
+                                @foreach (var item in ViewBag.arr)
+                                {
+                                    if (item != "")
+                                    {
+                                        <img style="width:220px;height:200px;float:left; padding:5px;" src="~/images/@item" class="img-thumbnail" alt="Cinque Terre" />
+
+                                    }
+                                }
+                            </div>
+                        </dd>
+                    </dl>
+                    Khác
+                    <input type="file" name="myfile" multiple />
+                    <span asp-validation-for="HangHoa.Hinh" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NgayBl" class="control-label"></label>
+                    <input asp-for="NgayBl" class="form-control" />
+                    <span asp-validation-for="NgayBl" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Lưu" class="w3-bar-item w3-padding w3-pale-red" />
+                    <a asp-action="Index" class="w3-bar-item w3-padding w3-pale-blue w3-button">Trở Về</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>

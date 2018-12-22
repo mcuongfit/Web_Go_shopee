@@ -1,0 +1,70 @@
+﻿@model LoginViewModel
+@{
+    ViewData["Title"] = "dangnhap";
+}
+<meta name="viewport" content="width=device-width" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>@ViewData["Title"] - NETCKTEAM30</title>
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="~/css/mycss.css" rel="stylesheet" />
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+<body>
+
+
+
+    <div id="id01" class="modal" style="display:block;">
+
+        <form class="modal-content animate" asp-action="dangnhap" asp-controller="NguoiDungs" style="width:30%;" >
+            <div class="imgcontainer">
+                <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
+                <img src="~/images/img_avatar2.png" alt="Avatar" class="avatar">
+            </div>
+
+            <div class="container">
+                <div class="form-group">
+                    <label asp-for="MaKH" class="control-label"></label>
+                    <input asp-for="MaKH" class="form-control" name="MaKH" style="width:29%;" />
+                    <span asp-validation-for="MaKH" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="MatKhau" class="control-label"></label>
+                    <input asp-for="MatKhau" class="form-control" name="MatKhau" style="width:29%;"/>
+                    <span asp-validation-for="MatKhau" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <button class="buttomlogin" type="submit">Login</button>
+                </div>
+
+                <a asp-action="dangky" asp-controller="NguoiDungs" class="btn btn-info buttomlogin" >Đăng Ký</a>
+                <br />
+                <label>
+                    <input type="checkbox" checked="checked" name="remember"> Remember me
+                </label>
+            </div>
+
+            <div class="container" style="background-color:#f1f1f1; width:100%;">
+                <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+
+                <span class="psw">Forgot <a href="#">password?</a></span>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        // Get the modal
+        var modal = document.getElementById('id01');
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function (event) {
+            if (event.target == modal) {
+                modal.style.display = "none";
+            }
+        }
+    </script>
+
+</body>

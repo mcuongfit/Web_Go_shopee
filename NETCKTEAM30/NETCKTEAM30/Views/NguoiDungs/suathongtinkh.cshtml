@@ -1,0 +1,93 @@
+﻿@model NETCKTEAM30.Models.NguoiDung
+
+@{
+    ViewData["Title"] = "suathongtinkh";
+}
+
+<meta name="viewport" content="width=device-width" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>@ViewData["Title"] - NETCKTEAM30</title>
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="~/css/mycss.css" rel="stylesheet" />
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+
+
+<h2>Sửa Thông Tin cá Nhân</h2>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="suathongtinkh" asp-controller="NguoiDungs" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="NguoiDungID" />
+            <div class="form-group">
+                Họ Tên
+                <input asp-for="HoTen" class="form-control" />
+                <span asp-validation-for="HoTen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Giới Tính
+                <select asp-for="GioiTinhID" class="form-control" asp-items="ViewBag.GioiTinhID"></select>
+                <span asp-validation-for="GioiTinhID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Ngày Sinh
+                <input asp-for="NgaySinh" class="form-control" />
+                <span asp-validation-for="NgaySinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Địa Chỉ
+                <input asp-for="DiaChi" class="form-control" />
+                <span asp-validation-for="DiaChi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                SĐT
+                <input asp-for="SDT" class="form-control" />
+                <span asp-validation-for="SDT" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Email
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Hình
+                <dd>
+                    <div style="width:auto;height:210px; ">
+
+                        <img style="width:220px;height:200px;float:left; padding:5px;" src="~/images/@Model.Hinh" class="img-thumbnail" alt="Cinque Terre" />
+
+
+                    </div>
+                </dd>
+                Khác
+                <input type="file" name="myfile" multiple />
+                <span asp-validation-for="Hinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="hidden" value="@Model.LoaiNgDungID" name="lngd" />
+
+            </div>
+            <div class="form-group">
+                Tên Đăng nhập
+                <input asp-for="TenDangNhap" class="form-control" />
+                <span asp-validation-for="TenDangNhap" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                Mật Khẩu
+                <input asp-for="MatKhau" type="password" class="form-control" />
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu" class="btn btn-default btn btn-info" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-controller="Home" class="btn btn-info">Trở Về</a>
+</div>

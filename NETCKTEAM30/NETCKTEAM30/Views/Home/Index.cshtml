@@ -1,0 +1,145 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="w3l_banner_nav_right" style="float:right;width:108%;padding-left:20px;">
+    <section class="slider">
+        <div class="flexslider">
+            <ul class="slides">
+                <li>
+                    <div class="w3l_banner_nav_right_banner" style="background-image:url(../images/bg6.jpg);min-height:470px;min-width:900px;">
+                       
+                        <div class="more">
+                            
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="w3l_banner_nav_right_banner1" style="background-image:url(../images/bg7.jpg);min-height:470px;min-width:900px;">
+                       
+                        
+                    </div>
+                </li>
+                <li>
+                    <div class="w3l_banner_nav_right_banner2" style="background-image:url(../images/bg.jpg);min-height:470px;min-width:900px;">
+                        <h3>SO FAST<i>TRUST</i> QUATITY</h3>
+                      
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </section>
+    <!-- flexSlider -->
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" property="" />
+    <script defer src="js/jquery.flexslider.js"></script>
+    <script type="text/javascript">
+        $(window).load(function () {
+            $('.flexslider').flexslider({
+                animation: "slide",
+                start: function (slider) {
+                    $('body').removeClass('loading');
+                }
+            });
+        });
+    </script>
+    <!-- //flexSlider -->
+</div>
+
+<!-- banner -->
+<div class="banner_bottom" style="padding:1em 0 !important;">
+    <div class="wthree_banner_bottom_left_grid_sub">
+    </div>
+    <span style="color: #6ea534;font-weight: 900;font-size: 30px;">TOP SALE</span>
+    <div class="wthree_banner_bottom_left_grid_sub1" style="width: 98%;float:left;">
+        @{
+            MyDbContext db = new MyDbContext();
+            var HHgiam = db.HangHoas
+                .Where(p => p.GiamGia != 0).OrderByDescending(x => x.GiamGia)
+                .Take(3);
+            var banchay = db.HangHoas
+            .Where(p => p.LuotMua > 0).OrderByDescending(x => x.LuotMua).Take(3);
+
+        }
+        @{
+            foreach (var item in HHgiam)
+            {
+                double a = (double)item.GiamGia * 100;
+                item.GiamGia = a;
+                <div class="col-sm-4 wthree_banner_bottom_left">
+                    <a asp-action="chitiet" asp-controller="HangHoas" class="_hanghoa1"
+                       asp-route-id="@item.HanghoaID">
+                        
+                        <img src="~/images/@item.Hinh" style="height:510px;width:400px" />
+                        <span class="thongtinsanpham">
+                            <h4 class="tensanpham">@item.TenHh</h4>
+                            <span style="color:red;font-weight:700;font-size:30px;">GIẢM @item.GiamGia %</span>
+                            <div class="danhmucsanpham" style="text-decoration: line-through; float:left; margin-top:35px;">@item.DonGia .000 đ</div>
+                            @{
+                                double b = (double)(item.DonGia - ((double)((item.DonGia * item.GiamGia) / 100)));
+                                item.DonGia = b;
+                            }
+                            <div style="float:left;">
+                                <span style="color: #0c0c0c;font-size: 20px;margin-left:10px;"> Chỉ còn:</span><span style="color:red;font-size:30px;font-weight:900;">@item.DonGia .000 đ</span>
+                            </div>
+                            
+                        </span>
+                    </a>
+                </div>
+            }
+        }
+
+    </div>
+    <div class="clearfix"> </div>
+</div>
+<div class="banner_bottom" style="padding:1em 0 !important;">
+    <div class="wthree_banner_bottom_left_grid_sub">
+    </div>
+    <span style="color: #6ea534;font-weight: 900;font-size: 30px;">BESTSELLER</span>
+    <div class="wthree_banner_bottom_left_grid_sub1" style="width: 98%;float:left;">
+
+        @{
+            foreach (var item in banchay)
+            {
+                if (item.GiamGia == 0)
+                {
+                    <div class="col-sm-4 wthree_banner_bottom_left">
+                        <a asp-action="chitiet" asp-controller="HangHoas" class="_hanghoa1"
+                           asp-route-id="@item.HanghoaID">
+                            <img src="~/images/@item.Hinh" style="height:510px;width:400px;"/>
+                            <span class="thongtinsanpham">
+                                <h4 class="tensanpham">@item.TenHh</h4>
+                                <div class="danhmucsanpham">@item.DonGia $</div>
+                            </span>
+                        </a>
+                    </div>
+                }
+                else
+                {
+                    double a = (double)item.GiamGia * 100;
+                    item.GiamGia = a;
+                    <div class="col-sm-4 wthree_banner_bottom_left">
+                        <a asp-action="chitiet" asp-controller="HangHoas" class="_hanghoa1"
+                           asp-route-id="@item.HanghoaID">
+
+                            <img src="~/images/@item.Hinh" style="height:510px;width:400px;" />
+                            <span class="thongtinsanpham">
+                                <h4 class="tensanpham">@item.TenHh</h4>
+                                <span style="color:red;font-weight:700;font-size:30px;">GIẢM @item.GiamGia %</span>
+                                <div class="danhmucsanpham" style="text-decoration: line-through; float:left; margin-top:35px;">@item.DonGia .000 đ</div>
+                                @{
+                                    double b = (double)(item.DonGia - ((double)((item.DonGia * item.GiamGia) / 100)));
+                                    item.DonGia = b;
+                                }
+                                <div style="float:left;">
+                                    <span style="color: #0c0c0c;font-size: 20px;margin-left:10px;"> Chỉ còn:</span><span style="color:red;font-size:30px;font-weight:900;">@item.DonGia .000 đ</span>
+                                </div>
+
+                            </span>
+                        </a>
+                    </div>
+                }
+            }
+        }
+
+    </div>
+    <div class="clearfix"> </div>
+</div>

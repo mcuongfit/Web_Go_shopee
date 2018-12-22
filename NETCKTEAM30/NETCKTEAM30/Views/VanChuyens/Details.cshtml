@@ -1,0 +1,24 @@
+﻿@model NETCKTEAM30.Models.VanChuyen
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>VanChuyen</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Ten)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Ten)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.VanChuyenID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

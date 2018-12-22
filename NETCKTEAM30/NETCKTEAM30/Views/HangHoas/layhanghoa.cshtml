@@ -1,0 +1,85 @@
+﻿@model IEnumerable<NETCKTEAM30.Models.HangHoaViewModel>
+@{
+    Layout = "_FrontEnd";
+}
+
+<title>@ViewData["Title"] - NETCKTEAM30</title>
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+<link href="~/css/mycss.css" rel="stylesheet" />
+
+
+<div class="container-fluid">
+    <div class="row" style="margin-right:-15px;margin-left:-96px;">
+        <div class="products-breadcrumb" style="background-color:#a5c29e;padding:0.5em 14px;">      
+            <ul>
+                <li><i class="fa fa-home" aria-hidden="true"></i><a href="~/">Home</a><span>|</span></li>
+                <li> Sreach <input type="text" id="txtSearch" placeholder="Nhập từ khóa" /></li>
+            </ul> 
+        </div>
+
+        <div id="results"></div>
+        <script>
+            $("#txtSearch").keyup(function () {
+                $.ajax({
+                    url: "/HangHoas/Search",
+                    data: { keyword: $(this).val() },
+                    type: "GET",
+                    success: function (response) {
+                        $("#results").html(response);
+                    }
+                });
+            });
+        </script>
+    </div>
+
+</div>
+
+
+<div class="row works" style="margin-right:-15px;margin-left:-55px;">
+    @foreach (var hh in Model)
+    {
+        if (hh.GiamGia == 0)
+        {
+            <div class="col-sm-3">
+                <a asp-action="chitiet" asp-controller="HangHoas" class="_hanghoa1"
+                   asp-route-id="@hh.MaHH">
+                    <img src="~/images/@hh.Hinh" style="height:310px;width:200px" />
+                    <span class="thongtinsanpham">
+                        <h4 class="tensanpham">@hh.TenHH</h4>
+                        <div class="danhmucsanpham">@hh.GiaBan $</div>
+                    </span>
+                </a>
+            </div>
+        }
+        else
+        {
+            double a = (double)hh.GiamGia * 100;
+            hh.GiamGia = a;
+            <div class="col-sm-3">
+                <a asp-action="chitiet" asp-controller="HangHoas" class="_hanghoa1"
+                   asp-route-id="@hh.MaHH">
+
+                    <img src="~/images/@hh.Hinh" style="height:310px;width:200px" />
+                    <span class="thongtinsanpham">
+                        <h4 class="tensanpham">@hh.TenHH</h4>
+                        <span style="color:red;font-weight:700;font-size:20px;">GIẢM @hh.GiamGia %</span>
+                        <div class="danhmucsanpham" style="text-decoration: line-through; float:left; margin-top:20px;">@hh.DonGia .000 đ</div>
+                        @{
+                            double b = (double)(hh.DonGia - ((double)((hh.DonGia * hh.GiamGia) / 100)));
+                            hh.DonGia = b;
+                        }
+                        <div style="float:left;">
+                            <span style="color: #0c0c0c;font-size: 10px;margin-left:10px;"> Chỉ còn:</span><span style="color:red;font-size:20px;font-weight:900;">@hh.DonGia .000 đ</span>
+                        </div>
+
+                    </span>
+                </a>
+            </div>
+        }
+
+    }
+</div>

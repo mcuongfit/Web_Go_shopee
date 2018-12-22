@@ -1,0 +1,49 @@
+﻿@model IEnumerable<NETCKTEAM30.Models.HangHoaViewModel>
+@{
+    ViewData["Title"] = "selectGiay";
+}
+<meta name="viewport" content="width=device-width" />
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>@ViewData["Title"] - NETCKTEAM30</title>
+<link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+<link href="~/css/mycss.css" rel="stylesheet" />
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+<link href="~/css/style.css" rel="stylesheet" type="text/css" media="all" />
+<div class="container-fluid">
+    <div class="row">
+        <input id="txtSearch" placeholder="Nhập từ khóa" />
+        <div id="results"></div>
+        <script>
+            $("#txtSearch").keyup(function () {
+                $.ajax({
+                    url: "/HangHoas/Search",
+                    data: { keyword: $(this).val() },
+                    type: "GET",
+                    success: function (response) {
+                        $("#results").html(response);
+                    }
+                });
+            });
+        </script>
+    </div>
+
+</div>
+<div class="row works">
+    @foreach (var hh in Model)
+    {
+        string[] arrListStr = hh.Hinh.Split(';');
+        hh.Hinh = arrListStr[0];
+        <div class="col-sm-4">
+            <a asp-action="chitiet" asp-controller="HangHoas" class="_hanghoa1"
+               asp-route-id="@hh.MaHH">
+                <img src="~/images/@hh.Hinh" />
+                <span class="thongtinsanpham">
+                    <h4 class="tensanpham">@hh.TenHH</h4>
+                    <div class="danhmucsanpham">@hh.GiaBan $</div>
+                </span>
+            </a>
+        </div>
+    }
+</div>

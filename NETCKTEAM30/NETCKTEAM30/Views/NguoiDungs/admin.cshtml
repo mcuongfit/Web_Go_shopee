@@ -1,0 +1,92 @@
+﻿@model IEnumerable<NETCKTEAM30.Models.NguoiDung>
+
+@{
+    ViewData["Title"] = "customer";
+    Layout = "_Admin";
+}
+<head>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+    <h3 class="w3-bar-item w3-padding w3-white" style="width:100%; text-align: center">ADMIN'S ACCOUNT</h3>
+    <br />
+    <br />
+    <div class="row" style="margin-right:-15px;margin-left:-96px; margin-left:5px;">
+        <div class="products-breadcrumb" style="background-color:#a5c29e;padding:0.5em 14px;">
+            <ul>
+
+                <span>Sreach</span>
+                <input type="text" id="txtSearch" placeholder="Nhập từ khóa" />
+            </ul>
+        </div>
+
+        <div id="results"></div>
+        <script>
+            $("#txtSearch").keyup(function () {
+                $.ajax({
+                    url: "/NguoiDungs/SearchAdmin",
+                    data: { keyword: $(this).val() },
+                    type: "GET",
+                    success: function (response) {
+                        $("#results").html(response);
+                    }
+                });
+            });
+        </script>
+    </div>
+    <p>
+        <a asp-action="Create" class="w3-bar-item w3-button w3-padding w3-pale-red"><i class="fa fa-plus-square"></i> ADD ACOUNT</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Họ Tên
+                </th>
+                <th>
+                    Ngày Sinh
+                </th>
+                <th>
+                    Địa Chỉ
+                </th>
+                <th>
+                    SĐT
+                </th>
+                <th>
+                    Email
+                </th>
+                <th>
+                    Loại Người Dùng
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td style="width:180px">
+                        @Html.DisplayFor(modelItem => item.HoTen)
+                    </td>
+                    <td style="width:150px">
+                        @Html.DisplayFor(modelItem => item.NgaySinh)
+                    </td>
+                    <td style="width: 200px">
+                        @Html.DisplayFor(modelItem => item.DiaChi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SDT)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Email)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.NguoiDungID" class="w3-pale-yellow w3-button">Sửa</a> |
+                        <a asp-action="Details" asp-route-id="@item.NguoiDungID" class="w3-pale-blue w3-button">Chi Tiết</a> |
+                        <a asp-action="Delete" asp-route-id="@item.NguoiDungID" class="w3-pale-red w3-button">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>

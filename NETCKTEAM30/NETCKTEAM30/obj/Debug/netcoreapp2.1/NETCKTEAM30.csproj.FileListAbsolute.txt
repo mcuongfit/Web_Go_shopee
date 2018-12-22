@@ -1,0 +1,1146 @@
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\source\repos\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\WebCKTeam30\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\NHU PHAM\Desktop\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\webnew\Team30NETCK\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\CKNET\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Quan\Desktop\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Admin.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Admin.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Admin.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\NHU PHAM\Desktop\layout\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Admin.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\layhanghoa.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NetCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\chitiet.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NetCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\mua.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\chitiet.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\layhanghoa.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\mua.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Admin.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (2)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\netck\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\laphoadon.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\chitiet.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\laphoadon.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\layhanghoa.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\mua.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Admin.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Quan\Desktop\Study\ASPCORE\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\chitiet.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\laphoadon.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\layhanghoa.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\mua.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Admin.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\suathongtinkh.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\team30\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\viewgiohang.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.deps.json
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.json
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.runtimeconfig.dev.json
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.dll
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\bin\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csprojAssemblyReference.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CoreCompileInputs.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorAssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfoInputs.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.AssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.input.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.TagHelpers.output.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorCoreGenerate.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\GioiTinhs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\chitiet.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\HangHoaTheoLoai.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\laphoadon.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\layhanghoa.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\mua.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Search.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectAo.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectGiay.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\selectQuan.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\sreach.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\viewgiohang.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Home\quanlytrangweb.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\LoaiNgDungs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Loais\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangky.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\dangnhap.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\suathongtinkh.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Admin.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_FrontEnd.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ThanhToans\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\TrangThais\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Create.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Delete.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Details.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Edit.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\VanChuyens\Index.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cache
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.RazorTargetAssemblyInfo.cs
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.Views.pdb
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.dll
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.pdb
+C:\Users\NHU PHAM\Desktop\ASPNetCore_Final_Team30-master (4)\ASPNetCore_Final_Team30-master\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\NETCKTEAM30.csproj.CopyComplete
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\ChiTietHds\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\viewgiohang.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\suathongtinkh.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\chitietdonhang.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\BinhLuans\Create.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\BinhLuans\Delete.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\BinhLuans\Details.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\BinhLuans\Edit.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\BinhLuans\Index.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\admin.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\customer.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NhaCungCaps\Search.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HangHoas\Searchadmin.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\HoaDons\Search.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\SearchAdmin.g.cshtml.cs
+C:\Users\Mcuong.FIT\Desktop\NETCK\ASPNetCore_Final_Team30\NETCKTEAM30\NETCKTEAM30\obj\Debug\netcoreapp2.1\Razor\Views\NguoiDungs\SearchUser.g.cshtml.cs

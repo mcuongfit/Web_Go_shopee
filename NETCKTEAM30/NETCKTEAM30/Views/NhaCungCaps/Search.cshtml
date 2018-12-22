@@ -1,0 +1,55 @@
+﻿@model IEnumerable<NETCKTEAM30.Models.NhaCungCap>
+
+@{
+    ViewData["Title"] = "Search";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tên Nhà Cung Cấp
+            </th>
+            <th>
+                Địa Chỉ
+            </th>
+            <th>
+                SĐT
+            </th>
+            <th>
+                Email
+            </th>
+            <th>
+                Mô Tả
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TenNhaCc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DiaChi)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SDT)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MoTa)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.NhaCungCapID" class="w3-pale-yellow w3-button">Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@item.NhaCungCapID" class="w3-pale-blue w3-button">Chi Tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.NhaCungCapID" class="w3-pale-red w3-button">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

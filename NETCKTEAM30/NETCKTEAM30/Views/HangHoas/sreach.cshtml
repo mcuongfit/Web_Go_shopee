@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewData["Title"] = "sreach";
+}
+
+@foreach (var hh in Model)
+{
+    <div class="col-sm-4">
+        <a asp-action="chitiet" asp-controller="HangHoas" class="_hanghoa1"
+           asp-route-id="@hh.MaHH">
+            <img src="~/images/@hh.Hinh" />
+            <span class="thongtinsanpham">
+                <h4 class="tensanpham">@hh.TenHH</h4>
+                <div class="danhmucsanpham">@hh.GiaBan $</div>
+            </span>
+        </a>
+    </div>
+}
+

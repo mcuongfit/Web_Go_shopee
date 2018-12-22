@@ -1,0 +1,53 @@
+﻿@model IEnumerable<NETCKTEAM30.Models.BinhLuan>
+
+@{
+    ViewData["Title"] = "Index";
+}
+@{
+    Layout = "_Admin";
+}
+<head>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+    <h3 class="w3-bar-item w3-padding w3-white" style="width:100%; text-align: center">COMMENTS</h3>
+    <br />
+    <br />
+    <br />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Tên Sản Phẩm
+                </th>
+                <th>
+                   Người Dùng
+                </th>
+                <th>
+                   Ngày Bình Luận
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td style="width:400px">
+                        @Html.DisplayFor(modelItem => item.HangHoa.TenHh)
+                    </td>
+                    <td style="width:250px">
+                        @Html.DisplayFor(modelItem => item.NguoiDung.HoTen)
+                    </td>
+                    <td style="width:250px">
+                        @Html.DisplayFor(modelItem => item.NgayBl)
+                    </td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.BinhLuanID" class="w3-pale-blue w3-button">Chi Tiết</a> |
+                        <a asp-action="Delete" asp-route-id="@item.BinhLuanID" class="w3-pale-red w3-button">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>

@@ -1,0 +1,72 @@
+﻿@model NETCKTEAM30.Models.BinhLuan
+
+@{
+    ViewData["Title"] = "Delete";
+}
+@{
+    Layout = "_Admin";
+}
+<head>
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <style>
+        .mainmenu {
+            margin-left: 20%;
+        }
+
+        table, tr, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            background-color: white;
+        }
+
+        tr, td {
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h3 class="w3-bar-item w3-padding w3-white" style="width:100%; text-align: center">COMMENTS</h3>
+    <br />
+    <br />
+    <div class="mainmenu">
+        <h4>Xóa Bình luận này ?</h4>
+        <hr />
+        <table style="width:800px">
+            <tr>
+                <td>Mã Sản Phẩm: </td>
+                <td>@Html.DisplayFor(model => model.HangHoaID)</td>
+            </tr>
+            <tr>
+                <td>Tên Sản Phẩm: </td>
+                <td>@Html.DisplayFor(model => model.HangHoa.TenHh)</td>
+            </tr>
+            <tr>
+                <td>Ảnh</td>
+                <td><img style="width:170px;height:150px;float:left; padding:5px;" src="~/images/@Html.DisplayFor(model => model.HangHoa.Hinh)" class="img-thumbnail" alt="Cinque Terre" /></td>
+            </tr>
+            <tr>
+                <td>Người Dùng: </td>
+                <td>@Html.DisplayFor(model => model.NguoiDung.HoTen)</td>
+            </tr>
+            <tr>
+                <td>Tài Khoản: </td>
+                <td>@Html.DisplayFor(model => model.NguoiDung.TenDangNhap)</td>
+            </tr>
+            <tr>
+                <td>Nội Dung: </td>
+                <td>@Html.DisplayFor(model => model.NoiDung)</td>
+            </tr>
+            <tr>
+                <td>Ngày Bình Luận: </td>
+                <td>@Html.DisplayFor(model => model.NgayBl)</td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        <form asp-action="Delete">
+            <input type="hidden" asp-for="BinhLuanID" />
+            <input type="submit" value="Xóa" class="w3-bar-item w3-padding w3-pale-red w3-button">
+            <a asp-action="Index" class="w3-bar-item w3-padding w3-pale-blue w3-button">Trở Về</a>
+        </form>
+    </div>
+</body>
